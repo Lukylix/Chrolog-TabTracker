@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#vite
+*.mjs
+*.crx
+*.pem
+chrolog.zip
