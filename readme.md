@@ -1,8 +1,8 @@
-# My Extension
+# Chrolog-TabTracker
 
 ## Description
 
-My Extension is a Chrome extension that tracks the active tabs and sends them to [Chrolog](https://github.com/Lukylix/Chrolog), an open-source time tracker.
+Chrolog-TabTracker is a Chrome extension that tracks the active tabs and sends them to [Chrolog](https://github.com/Lukylix/Chrolog), an open-source time tracker.
 
 ## Installation
 
